@@ -1,0 +1,19 @@
+﻿  VectorStore.cpp
+C:\Visual\DSA\BTL2\BTL 2\VectorStore.cpp(329,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+      C:\Visual\DSA\BTL2\BTL 2\VectorStore.cpp(329,13):
+      the template instantiation context (the oldest one first) is
+          C:\Visual\DSA\BTL2\BTL 2\VectorStore.cpp(996,39):
+          see reference to class template instantiation 'AVLTree<double,VectorRecord>' being compiled
+          C:\Visual\DSA\BTL2\BTL 2\VectorStore.cpp(316,48):
+          while compiling class template member function 'void AVLTree<double,VectorRecord>::printTreeStructure(void) const'
+  
+C:\Visual\DSA\BTL2\BTL 2\VectorStore.cpp(689,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+      C:\Visual\DSA\BTL2\BTL 2\VectorStore.cpp(689,18):
+      the template instantiation context (the oldest one first) is
+          C:\Visual\DSA\BTL2\BTL 2\VectorStore.cpp(1033,71):
+          see reference to class template instantiation 'RedBlackTree<double,VectorRecord>' being compiled
+          C:\Visual\DSA\BTL2\BTL 2\VectorStore.cpp(671,53):
+          while compiling class template member function 'void RedBlackTree<double,VectorRecord>::printTreeStructure(void) const'
+  
+C:\Visual\DSA\BTL2\BTL 2\VectorStore.cpp(699,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  BTL 2.vcxproj -> C:\Visual\DSA\BTL2\BTL 2\x64\Debug\BTL 2.exe
